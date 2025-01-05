@@ -9,7 +9,7 @@ Clone the repository:
     
 ## Usage Instructions
 Follow the step-by-step course:
-    You can find step-by-step course in [Build-guide](build-guide.md)
+    You can find step-by-step course in [Build-guide](build-guide.pdf)
 
 ## Contributing
 Contributions are welcome! To contribute:
