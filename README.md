@@ -18,4 +18,4 @@ Contributions are welcome! To contribute:
 3. Submit a pull request with a description of the changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
